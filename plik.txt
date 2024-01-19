@@ -1,3 +1,4 @@
 main	09:00 19.01.2024	SJ:pierwsza linia 'kodu'.
 main	09:06 19.01.2024	DG:druga linia 'kodu'.
 feature	09:10 19.01.2024	DG:trzecia linia 'kodu'.
+feature	09:16 19.01.2024	DG:czwarta linia 'kodu'.
